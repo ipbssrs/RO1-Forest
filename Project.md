@@ -1,6 +1,6 @@
 # Project on RO1 - Forest Research Group
 ## Forest Vegetation Mapping Project 
-<img src="Simulation-map-of-the-application-of-the-threshold-value-for-palm-vegetation_W640.jpg" width="100%" align="center"/></a>
+<img src="Simulation-map-of-the-application-of-the-threshold-value-for-palm-vegetation_W640.jpg" width="50%" align="center"/></a>
 
 ## Java Forest Monitoring Project 
 **PROJECT OVERVIEW**
