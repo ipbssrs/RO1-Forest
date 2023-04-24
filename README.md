@@ -22,8 +22,12 @@ F.......
 F....... 
 
 
-<footer>
--
-</footer>
-
+```
+_
+SSRS RO1 - Forest Research Group
+Directorate of Strategic Scientific Research
+Deputy III - Coordination of Research Development
+IPB SSRS Association
+IPB University
+  ```
 
