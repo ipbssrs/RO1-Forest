@@ -7,14 +7,14 @@ SSRS RO1 - Forest Research Group is a research group of IPB SSRS Association
 
 
 ##  `Research Team`
-  - Rahmat Asy (*Coordinator*) 
-  - Citra Putri Perdana (*Secretary*)
-  - Trisnanda Komala
-  - Alifia Cantika Nurrahmah
-  - Namira Argya Zahra
-  - Regina Sidabutar
-  - Ranti Dian Lesmana
-  - Anisa Salsabila
+  - **Rahmat Asy'Ari** (RO Coordinator), _Department of Forest Management, Faculty of Forestry and Environment, IPB University_
+  - **Citra Putri Perdana** (RO Secretary), _Department of Forest Product, Faculty of Forestry and Environment, IPB University_
+  - **Trisnanda Komala**, _Department of Forest Management, Faculty of Forestry and Environment, IPB University_
+  - **Alifia Cantika Nurrahmah**, _Department of Agronomy and Holticulture, Faculty of Agriculture, IPB University_
+  - **Namira Argya Zahra**, _Department of Forest Product, Faculty of Forestry and Environment, IPB University_
+  - **Regina Sidabutar**, _Department of Forest Management, Faculty of Forestry and Environment, IPB University_
+  - **Ranti Dian Lesmana** _Department of Silviculture, Faculty of Forestry and Environment, IPB University_
+  - **Anisa Salsabila**, _Department of Forest Management, Faculty of Forestry and Environment, IPB University_
   
 ##  `Project`
 * ![gem](https://img.shields.io/badge/PROJECT_1-Vegetation_Mapping_Project-blue) ![gem](https://img.shields.io/badge/PUBLICATION-P1-blue)
