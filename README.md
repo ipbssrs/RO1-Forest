@@ -1,12 +1,12 @@
 # SSRS RO1 - Forest Research Group <a href="https://ssrs.ipb.ac.id/ro-1-forest/"><img src="https://github.com/ipbssrs/RO1-Forest/blob/9de66f8d96760f1dd315df2b7af0062259c60ccc/ADMIN/RO1-forest.png" align="right" width="95" /><a href="https://ssrs.ipb.ac.id/"><img src="https://github.com/ipbssrs/RO1-Forest/blob/9de66f8d96760f1dd315df2b7af0062259c60ccc/ADMIN/Logo2_kecil.png" align="right" width="95" />
 <br /> 
 
-###  `Overview`
+##  `Overview`
 SSRS RO1 - Forest Research Group is a research group of IPB SSRS Association 
 
 
 
-###  `Research Team`
+##  `Research Team`
   - Rahmat Asy (*Coordinator*) 
   - Citra Putri Perdana (*Secretary*)
   - Trisnanda Komala
@@ -16,20 +16,22 @@ SSRS RO1 - Forest Research Group is a research group of IPB SSRS Association
   - Ranti Dian Lesmana
   - Anisa Salsabila
   
-###  `Project`
+##  `Project`
 * ![gem](https://img.shields.io/badge/PROJECT_1-Vegetation_Mapping_Project-blue) ![gem](https://img.shields.io/badge/PUBLICATION-P1-blue)
 * ![gem](https://img.shields.io/badge/PROJECT_2-Indonesia_Urban_Forest_Monitoring_Project-purple) ![gem](https://img.shields.io/badge/PUBLICATION-P2/P3-purple)
 * ![gem](https://img.shields.io/badge/PROJECT_3-Indonesia_Deforestration_Monitoring_Project-yellow) ![gem](https://img.shields.io/badge/PUBLICATION-P4-yellow)
-* Project 4
+* ![gem](https://img.shields.io/badge/PROJECT_4-Java_Forest_Monitoring_Project-darkgreen) ![gem](https://img.shields.io/badge/PUBLICATION-P5-darkgreen)
+* ![gem](https://img.shields.io/badge/PROJECT_5-National_Park_on_Indonesia_Project-coral) ![gem](https://img.shields.io/badge/PUBLICATION-P6-coral)
  
-###  `Progress`
+##  `Progress`
 * [![Generic badge](https://img.shields.io/badge/PROJECT_1-FINISH-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
 * [![Generic badge](https://img.shields.io/badge/PROJECT_2-ON_PROGRES-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9900&successColor=006600) 
 * [![Generic badge](https://img.shields.io/badge/PROJECT_3-ON_PROGRES-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/70?dangerColor=800000&warningColor=ff9900&successColor=006600)
 * [![Generic badge](https://img.shields.io/badge/PROJECT_4-ON_PROGRES-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/20?dangerColor=800000&warningColor=ff9900&successColor=006600)
 * [![Generic badge](https://img.shields.io/badge/PROJECT_5-PRELIMINARY_STUDY-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/10?dangerColor=800000&warningColor=ff9900&successColor=006600)
+
  
-###  `Publication`
+##  `Publication`
 F....... 
 
 ________________________________________________________________________________________________________________________________________________________
