@@ -7,7 +7,7 @@ SSRS RO1 - Forest Research Group is a research group of IPB SSRS Association
   
 ##  `Research Team`
   - **Rahmat Asy'Ari** (RO Coordinator), _Department of Forest Management, Faculty of Forestry and Environment, IPB University_
-    <br /> [![GitHub](https://img.shields.io/badge/GitHub-arihutan-red?style=flat&logo=github&logoColor=white)](https://github.com/arihutan/)  
+    <br /> [![GitHub](https://img.shields.io/badge/GitHub-arihutan-blue?style=flat&logo=github&logoColor=white)](https://github.com/arihutan/)  [![gem](https://img.shields.io/badge/ResearchGate-Rahmat_Asy'Ari-blue)](https://www.researchgate.net/profile/Rahmat-Asyari?ev=hdr_xprf)
   - **Citra Putri Perdana** (RO Secretary), _Department of Forest Product, Faculty of Forestry and Environment, IPB University_
   - **Trisnanda Komala**, _Department of Forest Management, Faculty of Forestry and Environment, IPB University_
   - **Alifia Cantika Nurrahmah**, _Department of Agronomy and Holticulture, Faculty of Agriculture, IPB University_
