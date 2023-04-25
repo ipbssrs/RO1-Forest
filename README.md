@@ -43,10 +43,9 @@ _
 <br/> CP: asyarihutan92@gmail.com (*Rahmat Asy'Ari*)<img src="https://github.com/ipbssrs/ipbssrs/blob/e06c45804cf17ab573e55ff856c4c3b8bcf81b8e/logo-ssrs/Dir_Riset.png" align="right" width="33%" />
 <br/> SSRS RO1 - Forest Research Group
   <br/> **Directorate of Strategic Scientific Research**
-  <br/> Deputy III - Coordination of Research Development
-  <br/> IPB SSRS Association
-  <br/>IPB University
+  <br/> Deputy III - Coordination of Research Development 
 <br/> 
+<br/>
 _
 <br/>
 <br/> CP: fr140701@gmail.com (*Fajar Raihan*)<img src="https://github.com/ipbssrs/ipbssrs/blob/e06c45804cf17ab573e55ff856c4c3b8bcf81b8e/logo-ssrs/Dir_Medpub.png" align="right" width="48%" />
