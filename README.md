@@ -29,10 +29,10 @@ SSRS RO1 - Forest Research Group is a research group of IPB SSRS Association
   
 ###  `Progress`
 * [![Generic badge](https://img.shields.io/badge/PROJECT_1-FINISH-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
-* [![Generic badge](https://img.shields.io/badge/PROJECT_2-FINISH-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9900&successColor=006600) 
-* [![Generic badge](https://img.shields.io/badge/PROJECT_3-FINISH-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/70?dangerColor=800000&warningColor=ff9900&successColor=006600)
-* [![Generic badge](https://img.shields.io/badge/PROJECT_4-FINISH-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/20?dangerColor=800000&warningColor=ff9900&successColor=006600)
-* [![Generic badge](https://img.shields.io/badge/PROJECT_5-FINISH-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/10?dangerColor=800000&warningColor=ff9900&successColor=006600)
+* [![Generic badge](https://img.shields.io/badge/PROJECT_2-ON_PROGRES-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9900&successColor=006600) 
+* [![Generic badge](https://img.shields.io/badge/PROJECT_3-ON_PROGRES-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/70?dangerColor=800000&warningColor=ff9900&successColor=006600)
+* [![Generic badge](https://img.shields.io/badge/PROJECT_4-ON_PROGRES-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/20?dangerColor=800000&warningColor=ff9900&successColor=006600)
+* [![Generic badge](https://img.shields.io/badge/PROJECT_5-ON_PROGRES-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/10?dangerColor=800000&warningColor=ff9900&successColor=006600)
  
 ###  `Publication`
 F....... 
