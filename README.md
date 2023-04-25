@@ -17,22 +17,17 @@ SSRS RO1 - Forest Research Group is a research group of IPB SSRS Association
   - Anisa Salsabila
   
 ###  `Project`
-* Project 1 - 
-* Project 2
-* Project 3
+* ![gem](https://img.shields.io/badge/PROJECT_1-Vegetation_Mapping_Project-blue) ![gem](https://img.shields.io/badge/PUBLICATION-P1-blue)
+* ![gem](https://img.shields.io/badge/PROJECT_2-Indonesia_Urban_Forest_Monitoring_Project-purple) ![gem](https://img.shields.io/badge/PUBLICATION-P2/P3-purple)
+* ![gem](https://img.shields.io/badge/PROJECT_3-Indonesia_Deforestration_Monitoring_Project-yellow) ![gem](https://img.shields.io/badge/PUBLICATION-P4-yellow)
 * Project 4
-
- Vegetation Mapping Project
-  ?style=for-the-badge&logo=appveyor
-
-[![Generic badge](https://img.shields.io/badge/PROJECT_1-FINISH-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
-  
+ 
 ###  `Progress`
 * [![Generic badge](https://img.shields.io/badge/PROJECT_1-FINISH-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
 * [![Generic badge](https://img.shields.io/badge/PROJECT_2-ON_PROGRES-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9900&successColor=006600) 
 * [![Generic badge](https://img.shields.io/badge/PROJECT_3-ON_PROGRES-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/70?dangerColor=800000&warningColor=ff9900&successColor=006600)
 * [![Generic badge](https://img.shields.io/badge/PROJECT_4-ON_PROGRES-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/20?dangerColor=800000&warningColor=ff9900&successColor=006600)
-* [![Generic badge](https://img.shields.io/badge/PROJECT_5-ON_PROGRES-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/10?dangerColor=800000&warningColor=ff9900&successColor=006600)
+* [![Generic badge](https://img.shields.io/badge/PROJECT_5-PRELIMINARY_STUDY-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/10?dangerColor=800000&warningColor=ff9900&successColor=006600)
  
 ###  `Publication`
 F....... 
