@@ -32,7 +32,8 @@ SSRS RO1 - Forest Research Group is a research group of IPB SSRS Association
 
  
 ##  `Publication`
-F....... 
+* Aprilianti HS, Asy’Ari R, Ranti A, Aslam MF. 2021. Identification and classification of vegetation indices values based on cloud computing on several land use in Bogor Regency, Indonesia. _IOP Conf. Ser.: Earth and Environmental Science_.  918: 012011. https://iopscience.iop.org/article/10.1088/1755-1315/918/1/012011/meta
+* Ranti A, Asy’Ari R, Ameiliani TH. 2022. Detection of Urban Forest Change in Jabodetabek Megacity Using Sentinel-2 and Landsat-8 Imagery Through Google Earth Engine Cloud Computing Platform. _IOP Conf. Ser.: Earth and Environmental Science_. 959: 012028. https://iopscience.iop.org/article/10.1088/1755-1315/959/1/012028 
 
 ________________________________________________________________________________________________________________________________________________________
 
