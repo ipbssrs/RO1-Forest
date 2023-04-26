@@ -7,14 +7,16 @@ SSRS RO1 - Forest Research Group is a research group of IPB SSRS Association
   
 ##  `Research Team`
   - **Rahmat Asy'Ari** (RO Coordinator), _Department of Forest Management, Faculty of Forestry and Environment, IPB University_
-    <br /> [![GitHub](https://img.shields.io/badge/GitHub-arihutan-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/arihutan/)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Rahmat-Asyari?ev=hdr_xprf)  [![gem](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahmat-asy-ari-21b59a1bb/)
+    <br /> [![GitHub](https://img.shields.io/badge/GitHub-arihutan-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/arihutan/)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Rahmat-Asyari)  [![gem](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahmat-asy-ari-21b59a1bb/)
   - **Citra Putri Perdana** (RO Secretary), _Department of Forest Product, Faculty of Forestry and Environment, IPB University_
   - **Trisnanda Komala**, _Department of Forest Management, Faculty of Forestry and Environment, IPB University_
   - **Alifia Cantika Nurrahmah**, _Department of Agronomy and Holticulture, Faculty of Agriculture, IPB University_
   - **Namira Argya Zahra**, _Department of Forest Product, Faculty of Forestry and Environment, IPB University_
   - **Regina Sidabutar**, _Department of Forest Management, Faculty of Forestry and Environment, IPB University_
   - **Ranti Dian Lesmana** _Department of Silviculture, Faculty of Forestry and Environment, IPB University_
+    <br /> [![GitHub](https://img.shields.io/badge/GitHub-arihutan-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/rantidianl/)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Ranti-Dian-Lesmana)  [![gem](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranti-dian-lesmana-b315401b7/)
   - **Anisa Salsabila**, _Department of Forest Management, Faculty of Forestry and Environment, IPB University_
+
   
 ##  `Project`
 * ![gem](https://img.shields.io/badge/PROJECT_1-Vegetation_Mapping_Project-blue) ![gem](https://img.shields.io/badge/PUBLICATION-P1-blue)
