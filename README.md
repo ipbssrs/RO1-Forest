@@ -14,11 +14,12 @@ SSRS RO1 - Forest Research Group is a research group of IPB SSRS Association
    <br /> [![GitHub](https://img.shields.io/badge/GitHub-trisnanda26k-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/trisnanda26k)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Trisnanda-Komala)  [![gem](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trisnanda-komala-087447226/)
   - **Alifia Cantika Nurrahmah**, _Department of Agronomy and Holticulture, Faculty of Agriculture, IPB University_
   - **Namira Argya Zahra**, _Department of Forest Product, Faculty of Forestry and Environment, IPB University_
+   <br /> [![GitHub](https://img.shields.io/badge/GitHub-NamiraArgya-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/NamiraArgya)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Namira-Argya-Zahra)  
   - **Regina Sidabutar**, _Department of Forest Management, Faculty of Forestry and Environment, IPB University_
   - **Ranti Dian Lesmana** _Department of Silviculture, Faculty of Forestry and Environment, IPB University_
     <br /> [![GitHub](https://img.shields.io/badge/GitHub-rantidianl-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/rantidianl/)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Ranti-Dian-Lesmana)  [![gem](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranti-dian-lesmana-b315401b7/)
-  - **Anisa Salsabila**, _Department of Forest Management, Faculty of Forestry and Environment, IPB University_
-
+  - **Anisa Salsabila**, _Department of Forest Management, Faculty of Forestry and Environment, IPB University_ 
+   <br /> [![GitHub](https://img.shields.io/badge/GitHub-AnisaSalsabila42-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/AnisaSalsabila42)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Anisa-Salsabila)  
   
 ##  `Project`
 * ![gem](https://img.shields.io/badge/PROJECT_1-Vegetation_Mapping_Project-blue) ![gem](https://img.shields.io/badge/PUBLICATION-P1-blue)
