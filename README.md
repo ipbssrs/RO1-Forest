@@ -29,8 +29,8 @@ SSRS RO1 - Forest Research Group is a research group of IPB SSRS Association
 * [![Generic badge](https://img.shields.io/badge/PROJECT_1-FINISH-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)  [![Generic badge](https://progress-bar.dev/100?title=P1&color=grey)](https://shields.io/) 
 * [![Generic badge](https://img.shields.io/badge/PROJECT_2-ON_PROGRES-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9900&successColor=006600)  [![Generic badge](https://progress-bar.dev/100?title=P2&color=grey)](https://shields.io/)   [![Generic badge](https://progress-bar.dev/100?title=P3&color=grey)](https://shields.io/)  
 * [![Generic badge](https://img.shields.io/badge/PROJECT_3-ON_PROGRES-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/70?dangerColor=800000&warningColor=ff9900&successColor=006600)  [![Generic badge](https://progress-bar.dev/78?title=P4&color=grey)](https://shields.io/) 
-* [![Generic badge](https://img.shields.io/badge/PROJECT_4-ON_PROGRES-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/20?dangerColor=800000&warningColor=ff9900&successColor=006600)  [![Generic badge](https://progress-bar.dev/5?title=P1&color=grey)](https://shields.io/) 
-* [![Generic badge](https://img.shields.io/badge/PROJECT_5-PRELIMINARY_STUDY-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/10?dangerColor=800000&warningColor=ff9900&successColor=006600)
+* [![Generic badge](https://img.shields.io/badge/PROJECT_4-ON_PROGRES-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/20?dangerColor=800000&warningColor=ff9900&successColor=006600)  [![Generic badge](https://progress-bar.dev/5?title=P5&color=grey)](https://shields.io/) 
+* [![Generic badge](https://img.shields.io/badge/PROJECT_5-PRELIMINARY_STUDY-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/10?dangerColor=800000&warningColor=ff9900&successColor=006600)   [![Generic badge](https://progress-bar.dev/2?title=P6&color=grey)](https://shields.io/) 
 
  
 ##  `Publication`
