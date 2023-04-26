@@ -8,8 +8,10 @@ SSRS RO1 - Forest Research Group is a research group of IPB SSRS Association
 ##  `Research Team`
   - **Rahmat Asy'Ari** (RO Coordinator), _Department of Forest Management, Faculty of Forestry and Environment, IPB University_
     <br /> [![GitHub](https://img.shields.io/badge/GitHub-arihutan-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/arihutan/)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Rahmat-Asyari)  [![gem](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahmat-asy-ari-21b59a1bb/)
-  - **Citra Putri Perdana** (RO Secretary), _Department of Forest Product, Faculty of Forestry and Environment, IPB University_
+  - **Citra Putri Perdana** (RO Secretary), _Department of Forest Product, Faculty of Forestry and Environment, IPB University_ 
+   <br /> [![GitHub](https://img.shields.io/badge/GitHub-citraputriperdana-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/citraputriperdana)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Citra-Putri-Perdana)  [![gem](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/citra-putri-perdana-4b1488248/)
   - **Trisnanda Komala**, _Department of Forest Management, Faculty of Forestry and Environment, IPB University_
+   <br /> [![GitHub](https://img.shields.io/badge/GitHub-trisnanda26k-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/trisnanda26k)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Trisnanda-Komala)  [![gem](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trisnanda-komala-087447226/)
   - **Alifia Cantika Nurrahmah**, _Department of Agronomy and Holticulture, Faculty of Agriculture, IPB University_
   - **Namira Argya Zahra**, _Department of Forest Product, Faculty of Forestry and Environment, IPB University_
   - **Regina Sidabutar**, _Department of Forest Management, Faculty of Forestry and Environment, IPB University_
