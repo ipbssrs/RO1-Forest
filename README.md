@@ -14,7 +14,7 @@ SSRS RO1 - Forest Research Group is a research group of IPB SSRS Association
   - **Namira Argya Zahra**, _Department of Forest Product, Faculty of Forestry and Environment, IPB University_
   - **Regina Sidabutar**, _Department of Forest Management, Faculty of Forestry and Environment, IPB University_
   - **Ranti Dian Lesmana** _Department of Silviculture, Faculty of Forestry and Environment, IPB University_
-    <br /> [![GitHub](https://img.shields.io/badge/GitHub-arihutan-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/rantidianl/)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Ranti-Dian-Lesmana)  [![gem](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranti-dian-lesmana-b315401b7/)
+    <br /> [![GitHub](https://img.shields.io/badge/GitHub-rantidianl-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/rantidianl/)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Ranti-Dian-Lesmana)  [![gem](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranti-dian-lesmana-b315401b7/)
   - **Anisa Salsabila**, _Department of Forest Management, Faculty of Forestry and Environment, IPB University_
 
   
