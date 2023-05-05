@@ -44,8 +44,6 @@ SSRS RO1 - Forest Research Group is a research group of IPB SSRS Association
 * Ranti A, Asy’Ari R, Ameiliani TH. 2022. Detection of Urban Forest Change in Jabodetabek Megacity Using Sentinel-2 and Landsat-8 Imagery Through Google Earth Engine Cloud Computing Platform. _IOP Conf. Ser.: Earth and Environmental Science_. 959: 012028. https://iopscience.iop.org/article/10.1088/1755-1315/959/1/012028 
 
 ________________________________________________________________________________________________________________________________________________________
-
-
 _
 <br/> CP: asyarihutan92@gmail.com (*Rahmat Asy'Ari*)<img src="https://github.com/ipbssrs/ipbssrs/blob/e06c45804cf17ab573e55ff856c4c3b8bcf81b8e/logo-ssrs/Dir_Riset.png" align="right" width="33%" />
 <br/> SSRS RO1 - Forest Research Group
