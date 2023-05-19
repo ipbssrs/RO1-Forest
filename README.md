@@ -4,8 +4,9 @@
 ##  `Overview`
 
 SSRS RO1 - Forest Research Group is a research group of IPB SSRS Association 
-  
-  
+
+##  `Supervisor`
+  - **Dr. Yudi Setiawan, S.P., M.Env.Sc**, _Department of Forest Resources Conservation and Ecotourism, Faculty of Forestry and Environment, IPB University_
 ##  `Research Team`
   - **Rahmat Asy'Ari** (RO Coordinator), _Department of Forest Management, Faculty of Forestry and Environment, IPB University_
     <br /> [![GitHub](https://img.shields.io/badge/GitHub-arihutan-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/arihutan/)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Rahmat-Asyari)  [![gem](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahmat-asy-ari-21b59a1bb/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](asyarihutan92@gmail.com)
@@ -76,7 +77,7 @@ _
   <img src="https://github.com/ipbssrs/ipbssrs/blob/9d7075b4b916601af7be6b1a809b79ca3ae9e6c5/logo-media/facebook.png" alt="facebook" title="facebook" width="40" height="40" /><a href="https://www.researchgate.net/lab/IPB-SSRS-Association-Ipb-Ssrs-Association-2">
   <img src="https://github.com/ipbssrs/ipbssrs/blob/72c1d782bba8589d5429e8cb2426dccf50f11b6e/logo-media/1200px-ResearchGate_icon_SVG.svg.png" alt="ResearchGate" title="ResearchGate" width="40" height="40" />
   
-  
+ 
   
 
 
