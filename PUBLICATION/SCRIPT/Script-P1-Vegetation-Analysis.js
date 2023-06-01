@@ -1,3 +1,5 @@
+//SCRIPT analisis P1, RO1 Forest Research Group
+
 var bogor = ee.FeatureCollection(
     'users/rahmatasyari/bgr');
 
