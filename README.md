@@ -31,6 +31,9 @@ SSRS RO1 - Forest Research Group is a research group of IPB SSRS Association
 * ![gem](https://img.shields.io/badge/PROJECT_3-Indonesia_Deforestration_Monitoring_Project-yellow) ![gem](https://img.shields.io/badge/PUBLICATION-P4-yellow)
 * ![gem](https://img.shields.io/badge/PROJECT_4-Java_Forest_Monitoring_Project-darkgreen) ![gem](https://img.shields.io/badge/PUBLICATION-P5-darkgreen)
 * ![gem](https://img.shields.io/badge/PROJECT_5-National_Park_on_Indonesia_Project-coral) ![gem](https://img.shields.io/badge/PUBLICATION-P6-coral)
+* ![gem](https://img.shields.io/badge/PROJECT_6-Forest_Fire_Project-darkred) ![gem](https://img.shields.io/badge/PUBLICATION-P0-darkred)
+* ![gem](https://img.shields.io/badge/PROJECT_7-Agriculture_Expansion_in_Forest_Area-pink) ![gem](https://img.shields.io/badge/PUBLICATION-P0-pink)
+* ![gem](https://img.shields.io/badge/PROJECT_8-Forest_Plantation_Monitoring-green) ![gem](https://img.shields.io/badge/PUBLICATION-P0-green)
  
 ##  `Progress`
 * [![Generic badge](https://img.shields.io/badge/PROJECT_1-FINISH-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)  [![Generic badge](https://progress-bar.dev/100?title=P1&color=grey)](https://shields.io/) 
