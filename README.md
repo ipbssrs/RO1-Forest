@@ -5,6 +5,12 @@
 
 SSRS RO1 - Forest Research Group is a research group of IPB SSRS Association 
 
+##  `Research Scope`
+- Forest Ecosystem: 
+- Forest Product: 
+- Forest Conservation: 
+- Forest Utilization:
+  
 ##  `Supervisor`
   - **Dr. Yudi Setiawan, S.P., M.Env.Sc**, _Department of Forest Resources Conservation and Ecotourism, Faculty of Forestry and Environment, IPB University_
 ##  `Research Team`
