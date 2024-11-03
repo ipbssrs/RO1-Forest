@@ -5,9 +5,6 @@
 
 SSRS RO1 - Forest Research Group is a research group of IPB SSRS Association 
 
-1. ari
-2. ari
-
 ##  `Research Scope`
 - Forest Ecosystem: 
 - Forest Product: 
